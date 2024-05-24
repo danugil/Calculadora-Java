@@ -21,3 +21,15 @@ Este proyecto implementa una calculadora en Java utilizando el GUI Builder para 
 ## Interfaz
 
 <img align="center" src="https://i.ibb.co/rHtBhq5/image-1.png" alt="Screenshot">
+
+
+## Instalación
+
+1. **Clonar el repositorio.**
+```bash
+git clone https://github.com/danugil/Calculadora-Java
+```
+
+2. **Abrir el proyecto en un IDE compatible con Java.**
+
+3. **Compilar y ejecutar el proyecto.**
