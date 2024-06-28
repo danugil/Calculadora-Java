@@ -18,7 +18,7 @@ Este proyecto implementa una calculadora en Java utilizando el GUI Builder para 
 - GUI Builder 
 
 
-## Interfaz
+## Interfaz de usuario
 
 <div align="center">  
 <img align="center" src="https://i.ibb.co/Ryc35Yp/image-1.png" alt="Screenshot">
